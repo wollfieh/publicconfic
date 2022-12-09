@@ -1,4 +1,8 @@
+set modeline
+set modelines=5
+
 set nocompatible
+
 filetype on
 filetype indent on
 syntax on
