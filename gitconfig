@@ -1,7 +1,14 @@
 [pull]
 	rebase = true
-
 [alias]
-  st = status
+	st = status -s
 [init]
 	defaultBranch = main
+[user]
+	email = wolfgang.braun@gmx.de
+	name = Wolfgang Braun
+[committer]
+	email = wolfgang.braun@gmx.de
+	name = Wolfgang Braun
+[diff]
+	tool = vimdiff
